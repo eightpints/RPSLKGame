@@ -1,0 +1,335 @@
+Welcome to Rock Paper Scissors Lizard Spock! 
+
+This game is very similar to standard Rock, Paper, Scissors 
+but it has an added bonus: Lizard and Spock! Thus Rock crushes Scissors 
+cuts Paper covers Rock crushes Lizard poisons Spock smashes Scissors 
+decapitates Lizard eats Paper disproves Spock vaporizes Rock. 
+
+First, select Player 1 by entering its corresponding number:
+
+ [1] 	 Human 
+ [2] 	 Repeater
+ [3] 	 Rotater 
+ [4] 	 Reflector
+ [5] 	 Randomizer 
+ [6] 	 Mixer 
+ [7] 	 Thinker
+
+2
+Now, select Player 2 by entering its corresponding number:
+
+ [1] 	 Human 
+ [2] 	 Repeater
+ [3] 	 Rotater 
+ [4] 	 Reflector
+ [5] 	 Randomizer 
+ [6] 	 Mixer 
+ [7] 	 Thinker
+7
+How many rounds would you like the computer to play?
+100
+Player 1 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 1
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 2
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 3
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 4
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 5
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 6
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 7
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 8
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 9
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 10
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 11
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 12
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 13
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 14
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 15
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 16
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 17
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 18
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 19
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 20
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 21
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 22
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 23
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 24
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 25
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 26
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 27
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 28
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 29
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 30
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 31
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 32
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 33
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 34
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 35
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 36
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 37
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 38
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 39
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 40
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 41
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 42
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 43
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 44
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 45
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 46
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 47
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 48
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 49
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 50
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 51
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 52
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 53
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 54
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 55
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 56
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 57
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 58
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 59
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 60
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 61
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 62
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 63
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 64
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 65
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 66
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 67
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 68
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 69
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 70
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 71
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 72
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 73
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 74
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 75
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 76
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 77
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 78
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 79
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 80
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 81
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 82
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 83
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 84
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 85
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 86
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 87
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 88
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 89
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 90
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 91
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 92
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 93
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 94
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 95
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 96
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 97
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 98
+
+Player 2 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 99
+
+Player 2 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 100
+
+Player 1 (Repeater Player) won 1 rounds while Player 2 (Thinker Player) won 99 rounds.
+Number of Ties: 0
+Player 1 Win Percentage: 1.0
+Player 2 Win Percentage: 99.0
+Tie Percentage: 0.0

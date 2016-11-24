@@ -1,0 +1,3038 @@
+Welcome to Rock Paper Scissors Lizard Spock! 
+
+This game is very similar to standard Rock, Paper, Scissors 
+but it has an added bonus: Lizard and Spock! Thus Rock crushes Scissors 
+cuts Paper covers Rock crushes Lizard poisons Spock smashes Scissors 
+decapitates Lizard eats Paper disproves Spock vaporizes Rock. 
+
+First, select Player 1 by entering its corresponding number:
+
+ [1] 	 Human 
+ [2] 	 Repeater
+ [3] 	 Rotater 
+ [4] 	 Reflector
+ [5] 	 Randomizer 
+ [6] 	 Mixer 
+ [7] 	 Thinker
+
+7
+Now, select Player 2 by entering its corresponding number:
+
+ [1] 	 Human 
+ [2] 	 Repeater
+ [3] 	 Rotater 
+ [4] 	 Reflector
+ [5] 	 Randomizer 
+ [6] 	 Mixer 
+ [7] 	 Thinker
+6
+You chose a Mixer!
+How often would you like the players to be Mixed?
+7
+How many rounds would you like the computer to play?
+1000
+Player 2 (Mixer Player) wins! Lizard poisons Spock!
+Rounds Played: 1
+
+Player 2 (Mixer Player) wins! Paper covers Rock!
+Rounds Played: 2
+
+Player 2 (Mixer Player) wins! Spock vaporizes Rock!
+Rounds Played: 3
+
+Player 2 (Mixer Player) wins! Scissors decapitate Lizard!
+Rounds Played: 4
+
+Player 1 (Thinker Player) wins! Lizard eats Paper!
+Rounds Played: 5
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 6
+
+Player 1 (Thinker Player) wins! Lizard eats Paper!
+Rounds Played: 7
+
+Player 2 (Random Player) wins! Spock vaporizes Rock!
+Rounds Played: 8
+
+Player 2 (Random Player) wins! Paper disproves Spock!
+Rounds Played: 9
+
+Player 2 (Random Player) wins! Scissors decapitate Lizard!
+Rounds Played: 10
+
+It was a tie!
+Rounds Played: 11
+
+It was a tie!
+Rounds Played: 12
+
+It was a tie!
+Rounds Played: 13
+
+Player 1 (Thinker Player) wins! Paper disproves Spock!
+Rounds Played: 14
+
+Player 2 (Rotator Player) wins! Rock crushes Lizard!
+Rounds Played: 15
+
+Player 1 (Thinker Player) wins! Lizard eats Paper!
+Rounds Played: 16
+
+Player 2 (Rotator Player) wins! Scissors decapitate Lizard!
+Rounds Played: 17
+
+It was a tie!
+Rounds Played: 18
+
+Player 2 (Rotator Player) wins! Spock smashes Scissors!
+Rounds Played: 19
+
+Player 2 (Rotator Player) wins! Rock crushes Scissors!
+Rounds Played: 20
+
+Player 2 (Rotator Player) wins! Paper covers Rock!
+Rounds Played: 21
+
+Player 2 (Reflector Player) wins! Scissors cut Paper!
+Rounds Played: 22
+
+Player 1 (Thinker Player) wins! Lizard eats Paper!
+Rounds Played: 23
+
+Player 2 (Reflector Player) wins! Lizard poisons Spock!
+Rounds Played: 24
+
+Player 1 (Thinker Player) wins! Lizard poisons Spock!
+Rounds Played: 25
+
+Player 2 (Reflector Player) wins! Lizard eats Paper!
+Rounds Played: 26
+
+It was a tie!
+Rounds Played: 27
+
+Player 2 (Reflector Player) wins! Paper disproves Spock!
+Rounds Played: 28
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 29
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 30
+
+It was a tie!
+Rounds Played: 31
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 32
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 33
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 34
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 35
+
+Player 1 (Thinker Player) wins! Spock smashes Scissors!
+Rounds Played: 36
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 37
+
+Player 2 (Rotator Player) wins! Spock smashes Scissors!
+Rounds Played: 38
+
+Player 2 (Rotator Player) wins! Rock crushes Scissors!
+Rounds Played: 39
+
+Player 2 (Rotator Player) wins! Paper disproves Spock!
+Rounds Played: 40
+
+Player 2 (Rotator Player) wins! Scissors cut Paper!
+Rounds Played: 41
+
+Player 2 (Rotator Player) wins! Lizard eats Paper!
+Rounds Played: 42
+
+Player 1 (Thinker Player) wins! Paper disproves Spock!
+Rounds Played: 43
+
+Player 1 (Thinker Player) wins! Scissors cut Paper!
+Rounds Played: 44
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 45
+
+It was a tie!
+Rounds Played: 46
+
+It was a tie!
+Rounds Played: 47
+
+Player 2 (Reflector Player) wins! Rock crushes Scissors!
+Rounds Played: 48
+
+Player 2 (Reflector Player) wins! Scissors decapitate Lizard!
+Rounds Played: 49
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 50
+
+It was a tie!
+Rounds Played: 51
+
+It was a tie!
+Rounds Played: 52
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 53
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 54
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 55
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 56
+
+Player 2 (Rotator Player) wins! Spock smashes Scissors!
+Rounds Played: 57
+
+Player 2 (Rotator Player) wins! Rock crushes Scissors!
+Rounds Played: 58
+
+Player 2 (Rotator Player) wins! Paper disproves Spock!
+Rounds Played: 59
+
+Player 2 (Rotator Player) wins! Scissors decapitate Lizard!
+Rounds Played: 60
+
+It was a tie!
+Rounds Played: 61
+
+Player 2 (Rotator Player) wins! Spock smashes Scissors!
+Rounds Played: 62
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 63
+
+It was a tie!
+Rounds Played: 64
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 65
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 66
+
+Player 2 (Reflector Player) wins! Paper disproves Spock!
+Rounds Played: 67
+
+Player 2 (Reflector Player) wins! Spock vaporizes Rock!
+Rounds Played: 68
+
+Player 2 (Reflector Player) wins! Rock crushes Scissors!
+Rounds Played: 69
+
+It was a tie!
+Rounds Played: 70
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 71
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 72
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 73
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 74
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 75
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 76
+
+It was a tie!
+Rounds Played: 77
+
+Player 2 (Rotator Player) wins! Paper disproves Spock!
+Rounds Played: 78
+
+Player 1 (Thinker Player) wins! Spock smashes Scissors!
+Rounds Played: 79
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 80
+
+It was a tie!
+Rounds Played: 81
+
+It was a tie!
+Rounds Played: 82
+
+Player 2 (Rotator Player) wins! Paper covers Rock!
+Rounds Played: 83
+
+Player 1 (Thinker Player) wins! Spock smashes Scissors!
+Rounds Played: 84
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 85
+
+Player 2 (Reflector Player) wins! Rock crushes Lizard!
+Rounds Played: 86
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 87
+
+Player 2 (Reflector Player) wins! Rock crushes Lizard!
+Rounds Played: 88
+
+Player 2 (Reflector Player) wins! Lizard poisons Spock!
+Rounds Played: 89
+
+Player 2 (Reflector Player) wins! Spock vaporizes Rock!
+Rounds Played: 90
+
+It was a tie!
+Rounds Played: 91
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 92
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 93
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 94
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 95
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 96
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 97
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 98
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 99
+
+It was a tie!
+Rounds Played: 100
+
+Player 2 (Rotator Player) wins! Rock crushes Scissors!
+Rounds Played: 101
+
+Player 1 (Thinker Player) wins! Scissors cut Paper!
+Rounds Played: 102
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 103
+
+Player 2 (Rotator Player) wins! Lizard poisons Spock!
+Rounds Played: 104
+
+Player 1 (Thinker Player) wins! Paper disproves Spock!
+Rounds Played: 105
+
+Player 1 (Thinker Player) wins! Spock vaporizes Rock!
+Rounds Played: 106
+
+Player 1 (Thinker Player) wins! Lizard poisons Spock!
+Rounds Played: 107
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 108
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 109
+
+Player 1 (Thinker Player) wins! Lizard eats Paper!
+Rounds Played: 110
+
+Player 2 (Reflector Player) wins! Lizard poisons Spock!
+Rounds Played: 111
+
+Player 1 (Thinker Player) wins! Paper disproves Spock!
+Rounds Played: 112
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 113
+
+It was a tie!
+Rounds Played: 114
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 115
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 116
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 117
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 118
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 119
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 120
+
+Player 1 (Thinker Player) wins! Lizard eats Paper!
+Rounds Played: 121
+
+Player 2 (Rotator Player) wins! Scissors cut Paper!
+Rounds Played: 122
+
+It was a tie!
+Rounds Played: 123
+
+It was a tie!
+Rounds Played: 124
+
+Player 1 (Thinker Player) wins! Spock vaporizes Rock!
+Rounds Played: 125
+
+Player 1 (Thinker Player) wins! Scissors cut Paper!
+Rounds Played: 126
+
+Player 2 (Reflector Player) wins! Paper disproves Spock!
+Rounds Played: 127
+
+Player 1 (Thinker Player) wins! Lizard poisons Spock!
+Rounds Played: 128
+
+Player 2 (Reflector Player) wins! Lizard eats Paper!
+Rounds Played: 129
+
+It was a tie!
+Rounds Played: 130
+
+Player 1 (Thinker Player) wins! Scissors cut Paper!
+Rounds Played: 131
+
+It was a tie!
+Rounds Played: 132
+
+Player 2 (Reflector Player) wins! Scissors decapitate Lizard!
+Rounds Played: 133
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 134
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 135
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 136
+
+It was a tie!
+Rounds Played: 137
+
+It was a tie!
+Rounds Played: 138
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 139
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 140
+
+Player 2 (Rotator Player) wins! Scissors cut Paper!
+Rounds Played: 141
+
+It was a tie!
+Rounds Played: 142
+
+Player 2 (Rotator Player) wins! Spock smashes Scissors!
+Rounds Played: 143
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 144
+
+Player 2 (Rotator Player) wins! Paper disproves Spock!
+Rounds Played: 145
+
+Player 2 (Rotator Player) wins! Scissors decapitate Lizard!
+Rounds Played: 146
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 147
+
+Player 2 (Reflector Player) wins! Lizard eats Paper!
+Rounds Played: 148
+
+Player 2 (Reflector Player) wins! Paper disproves Spock!
+Rounds Played: 149
+
+It was a tie!
+Rounds Played: 150
+
+Player 2 (Reflector Player) wins! Spock smashes Scissors!
+Rounds Played: 151
+
+Player 2 (Reflector Player) wins! Scissors cut Paper!
+Rounds Played: 152
+
+Player 2 (Reflector Player) wins! Paper disproves Spock!
+Rounds Played: 153
+
+Player 2 (Reflector Player) wins! Spock smashes Scissors!
+Rounds Played: 154
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 155
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 156
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 157
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 158
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 159
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 160
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 161
+
+Player 2 (Rotator Player) wins! Spock vaporizes Rock!
+Rounds Played: 162
+
+It was a tie!
+Rounds Played: 163
+
+Player 1 (Thinker Player) wins! Lizard eats Paper!
+Rounds Played: 164
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 165
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 166
+
+Player 1 (Thinker Player) wins! Lizard poisons Spock!
+Rounds Played: 167
+
+It was a tie!
+Rounds Played: 168
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 169
+
+Player 2 (Reflector Player) wins! Rock crushes Scissors!
+Rounds Played: 170
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 171
+
+Player 2 (Reflector Player) wins! Rock crushes Scissors!
+Rounds Played: 172
+
+Player 1 (Thinker Player) wins! Spock smashes Scissors!
+Rounds Played: 173
+
+Player 1 (Thinker Player) wins! Lizard poisons Spock!
+Rounds Played: 174
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 175
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 176
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 177
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 178
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 179
+
+It was a tie!
+Rounds Played: 180
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 181
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 182
+
+Player 1 (Thinker Player) wins! Scissors cut Paper!
+Rounds Played: 183
+
+Player 1 (Thinker Player) wins! Spock smashes Scissors!
+Rounds Played: 184
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 185
+
+Player 2 (Rotator Player) wins! Spock vaporizes Rock!
+Rounds Played: 186
+
+Player 2 (Rotator Player) wins! Rock crushes Lizard!
+Rounds Played: 187
+
+Player 1 (Thinker Player) wins! Scissors cut Paper!
+Rounds Played: 188
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 189
+
+It was a tie!
+Rounds Played: 190
+
+Player 2 (Reflector Player) wins! Rock crushes Lizard!
+Rounds Played: 191
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 192
+
+It was a tie!
+Rounds Played: 193
+
+Player 2 (Reflector Player) wins! Scissors decapitate Lizard!
+Rounds Played: 194
+
+Player 2 (Reflector Player) wins! Lizard poisons Spock!
+Rounds Played: 195
+
+Player 2 (Reflector Player) wins! Spock smashes Scissors!
+Rounds Played: 196
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 197
+
+It was a tie!
+Rounds Played: 198
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 199
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 200
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 201
+
+It was a tie!
+Rounds Played: 202
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 203
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 204
+
+Player 2 (Rotator Player) wins! Spock smashes Scissors!
+Rounds Played: 205
+
+It was a tie!
+Rounds Played: 206
+
+Player 2 (Rotator Player) wins! Paper disproves Spock!
+Rounds Played: 207
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 208
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 209
+
+Player 1 (Thinker Player) wins! Lizard poisons Spock!
+Rounds Played: 210
+
+It was a tie!
+Rounds Played: 211
+
+Player 2 (Reflector Player) wins! Scissors cut Paper!
+Rounds Played: 212
+
+Player 1 (Thinker Player) wins! Lizard eats Paper!
+Rounds Played: 213
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 214
+
+Player 2 (Reflector Player) wins! Rock crushes Scissors!
+Rounds Played: 215
+
+It was a tie!
+Rounds Played: 216
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 217
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 218
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 219
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 220
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 221
+
+It was a tie!
+Rounds Played: 222
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 223
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 224
+
+It was a tie!
+Rounds Played: 225
+
+Player 1 (Thinker Player) wins! Lizard eats Paper!
+Rounds Played: 226
+
+It was a tie!
+Rounds Played: 227
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 228
+
+Player 2 (Rotator Player) wins! Spock vaporizes Rock!
+Rounds Played: 229
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 230
+
+Player 1 (Thinker Player) wins! Scissors cut Paper!
+Rounds Played: 231
+
+It was a tie!
+Rounds Played: 232
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 233
+
+Player 1 (Thinker Player) wins! Scissors cut Paper!
+Rounds Played: 234
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 235
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 236
+
+Player 2 (Reflector Player) wins! Paper covers Rock!
+Rounds Played: 237
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 238
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 239
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 240
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 241
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 242
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 243
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 244
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 245
+
+Player 1 (Thinker Player) wins! Spock smashes Scissors!
+Rounds Played: 246
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 247
+
+Player 2 (Rotator Player) wins! Spock vaporizes Rock!
+Rounds Played: 248
+
+It was a tie!
+Rounds Played: 249
+
+Player 2 (Rotator Player) wins! Paper disproves Spock!
+Rounds Played: 250
+
+It was a tie!
+Rounds Played: 251
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 252
+
+Player 2 (Reflector Player) wins! Paper disproves Spock!
+Rounds Played: 253
+
+Player 2 (Reflector Player) wins! Spock smashes Scissors!
+Rounds Played: 254
+
+It was a tie!
+Rounds Played: 255
+
+Player 2 (Reflector Player) wins! Scissors cut Paper!
+Rounds Played: 256
+
+It was a tie!
+Rounds Played: 257
+
+Player 1 (Thinker Player) wins! Lizard eats Paper!
+Rounds Played: 258
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 259
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 260
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 261
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 262
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 263
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 264
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 265
+
+It was a tie!
+Rounds Played: 266
+
+Player 1 (Thinker Player) wins! Paper disproves Spock!
+Rounds Played: 267
+
+Player 2 (Rotator Player) wins! Rock crushes Scissors!
+Rounds Played: 268
+
+Player 2 (Rotator Player) wins! Paper disproves Spock!
+Rounds Played: 269
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 270
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 271
+
+Player 2 (Rotator Player) wins! Spock smashes Scissors!
+Rounds Played: 272
+
+Player 2 (Rotator Player) wins! Rock crushes Scissors!
+Rounds Played: 273
+
+It was a tie!
+Rounds Played: 274
+
+It was a tie!
+Rounds Played: 275
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 276
+
+Player 2 (Reflector Player) wins! Rock crushes Lizard!
+Rounds Played: 277
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 278
+
+Player 2 (Reflector Player) wins! Scissors cut Paper!
+Rounds Played: 279
+
+Player 2 (Reflector Player) wins! Paper disproves Spock!
+Rounds Played: 280
+
+It was a tie!
+Rounds Played: 281
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 282
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 283
+
+It was a tie!
+Rounds Played: 284
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 285
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 286
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 287
+
+Player 1 (Thinker Player) wins! Lizard eats Paper!
+Rounds Played: 288
+
+It was a tie!
+Rounds Played: 289
+
+Player 2 (Rotator Player) wins! Lizard eats Paper!
+Rounds Played: 290
+
+Player 2 (Rotator Player) wins! Spock vaporizes Rock!
+Rounds Played: 291
+
+Player 2 (Rotator Player) wins! Rock crushes Scissors!
+Rounds Played: 292
+
+Player 2 (Rotator Player) wins! Paper disproves Spock!
+Rounds Played: 293
+
+Player 2 (Rotator Player) wins! Scissors decapitate Lizard!
+Rounds Played: 294
+
+Player 2 (Reflector Player) wins! Spock vaporizes Rock!
+Rounds Played: 295
+
+It was a tie!
+Rounds Played: 296
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 297
+
+Player 2 (Reflector Player) wins! Paper covers Rock!
+Rounds Played: 298
+
+Player 2 (Reflector Player) wins! Rock crushes Scissors!
+Rounds Played: 299
+
+Player 1 (Thinker Player) wins! Spock smashes Scissors!
+Rounds Played: 300
+
+Player 2 (Reflector Player) wins! Spock vaporizes Rock!
+Rounds Played: 301
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 302
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 303
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 304
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 305
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 306
+
+It was a tie!
+Rounds Played: 307
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 308
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 309
+
+Player 1 (Thinker Player) wins! Lizard poisons Spock!
+Rounds Played: 310
+
+Player 2 (Rotator Player) wins! Rock crushes Lizard!
+Rounds Played: 311
+
+Player 1 (Thinker Player) wins! Scissors cut Paper!
+Rounds Played: 312
+
+Player 1 (Thinker Player) wins! Spock smashes Scissors!
+Rounds Played: 313
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 314
+
+Player 2 (Rotator Player) wins! Spock vaporizes Rock!
+Rounds Played: 315
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 316
+
+Player 1 (Thinker Player) wins! Scissors cut Paper!
+Rounds Played: 317
+
+It was a tie!
+Rounds Played: 318
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 319
+
+Player 2 (Reflector Player) wins! Rock crushes Scissors!
+Rounds Played: 320
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 321
+
+Player 2 (Reflector Player) wins! Rock crushes Scissors!
+Rounds Played: 322
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 323
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 324
+
+It was a tie!
+Rounds Played: 325
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 326
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 327
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 328
+
+It was a tie!
+Rounds Played: 329
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 330
+
+Player 1 (Thinker Player) wins! Scissors cut Paper!
+Rounds Played: 331
+
+It was a tie!
+Rounds Played: 332
+
+It was a tie!
+Rounds Played: 333
+
+Player 2 (Rotator Player) wins! Spock vaporizes Rock!
+Rounds Played: 334
+
+It was a tie!
+Rounds Played: 335
+
+Player 2 (Rotator Player) wins! Paper disproves Spock!
+Rounds Played: 336
+
+Player 1 (Thinker Player) wins! Spock smashes Scissors!
+Rounds Played: 337
+
+Player 2 (Reflector Player) wins! Spock vaporizes Rock!
+Rounds Played: 338
+
+Player 2 (Reflector Player) wins! Rock crushes Scissors!
+Rounds Played: 339
+
+Player 2 (Reflector Player) wins! Scissors decapitate Lizard!
+Rounds Played: 340
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 341
+
+Player 1 (Thinker Player) wins! Spock smashes Scissors!
+Rounds Played: 342
+
+Player 2 (Reflector Player) wins! Spock smashes Scissors!
+Rounds Played: 343
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 344
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 345
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 346
+
+It was a tie!
+Rounds Played: 347
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 348
+
+It was a tie!
+Rounds Played: 349
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 350
+
+Player 2 (Rotator Player) wins! Scissors cut Paper!
+Rounds Played: 351
+
+Player 2 (Rotator Player) wins! Lizard poisons Spock!
+Rounds Played: 352
+
+Player 2 (Rotator Player) wins! Spock smashes Scissors!
+Rounds Played: 353
+
+Player 2 (Rotator Player) wins! Rock crushes Lizard!
+Rounds Played: 354
+
+Player 1 (Thinker Player) wins! Lizard eats Paper!
+Rounds Played: 355
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 356
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 357
+
+It was a tie!
+Rounds Played: 358
+
+It was a tie!
+Rounds Played: 359
+
+Player 2 (Reflector Player) wins! Scissors cut Paper!
+Rounds Played: 360
+
+Player 1 (Thinker Player) wins! Scissors cut Paper!
+Rounds Played: 361
+
+It was a tie!
+Rounds Played: 362
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 363
+
+It was a tie!
+Rounds Played: 364
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 365
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 366
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 367
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 368
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 369
+
+It was a tie!
+Rounds Played: 370
+
+It was a tie!
+Rounds Played: 371
+
+Player 1 (Thinker Player) wins! Lizard poisons Spock!
+Rounds Played: 372
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 373
+
+It was a tie!
+Rounds Played: 374
+
+Player 2 (Rotator Player) wins! Scissors cut Paper!
+Rounds Played: 375
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 376
+
+Player 2 (Rotator Player) wins! Spock vaporizes Rock!
+Rounds Played: 377
+
+Player 2 (Rotator Player) wins! Rock crushes Scissors!
+Rounds Played: 378
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 379
+
+Player 2 (Reflector Player) wins! Paper covers Rock!
+Rounds Played: 380
+
+Player 2 (Reflector Player) wins! Rock crushes Scissors!
+Rounds Played: 381
+
+It was a tie!
+Rounds Played: 382
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 383
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 384
+
+It was a tie!
+Rounds Played: 385
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 386
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 387
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 388
+
+It was a tie!
+Rounds Played: 389
+
+It was a tie!
+Rounds Played: 390
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 391
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 392
+
+Player 1 (Thinker Player) wins! Lizard eats Paper!
+Rounds Played: 393
+
+Player 1 (Thinker Player) wins! Spock smashes Scissors!
+Rounds Played: 394
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 395
+
+Player 1 (Thinker Player) wins! Paper disproves Spock!
+Rounds Played: 396
+
+It was a tie!
+Rounds Played: 397
+
+Player 2 (Rotator Player) wins! Paper covers Rock!
+Rounds Played: 398
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 399
+
+Player 2 (Reflector Player) wins! Paper covers Rock!
+Rounds Played: 400
+
+It was a tie!
+Rounds Played: 401
+
+Player 1 (Thinker Player) wins! Spock vaporizes Rock!
+Rounds Played: 402
+
+Player 2 (Reflector Player) wins! Spock smashes Scissors!
+Rounds Played: 403
+
+Player 1 (Thinker Player) wins! Spock smashes Scissors!
+Rounds Played: 404
+
+It was a tie!
+Rounds Played: 405
+
+Player 2 (Reflector Player) wins! Spock vaporizes Rock!
+Rounds Played: 406
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 407
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 408
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 409
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 410
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 411
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 412
+
+It was a tie!
+Rounds Played: 413
+
+Player 2 (Rotator Player) wins! Lizard eats Paper!
+Rounds Played: 414
+
+Player 1 (Thinker Player) wins! Lizard poisons Spock!
+Rounds Played: 415
+
+It was a tie!
+Rounds Played: 416
+
+Player 2 (Rotator Player) wins! Paper covers Rock!
+Rounds Played: 417
+
+Player 1 (Thinker Player) wins! Spock smashes Scissors!
+Rounds Played: 418
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 419
+
+Player 1 (Thinker Player) wins! Lizard poisons Spock!
+Rounds Played: 420
+
+Player 2 (Reflector Player) wins! Rock crushes Lizard!
+Rounds Played: 421
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 422
+
+Player 1 (Thinker Player) wins! Spock smashes Scissors!
+Rounds Played: 423
+
+Player 2 (Reflector Player) wins! Spock smashes Scissors!
+Rounds Played: 424
+
+It was a tie!
+Rounds Played: 425
+
+It was a tie!
+Rounds Played: 426
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 427
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 428
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 429
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 430
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 431
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 432
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 433
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 434
+
+Player 1 (Thinker Player) wins! Spock vaporizes Rock!
+Rounds Played: 435
+
+Player 1 (Thinker Player) wins! Lizard eats Paper!
+Rounds Played: 436
+
+Player 1 (Thinker Player) wins! Spock smashes Scissors!
+Rounds Played: 437
+
+Player 2 (Rotator Player) wins! Lizard poisons Spock!
+Rounds Played: 438
+
+Player 1 (Thinker Player) wins! Paper disproves Spock!
+Rounds Played: 439
+
+It was a tie!
+Rounds Played: 440
+
+Player 1 (Thinker Player) wins! Scissors cut Paper!
+Rounds Played: 441
+
+Player 2 (Reflector Player) wins! Rock crushes Lizard!
+Rounds Played: 442
+
+It was a tie!
+Rounds Played: 443
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 444
+
+It was a tie!
+Rounds Played: 445
+
+It was a tie!
+Rounds Played: 446
+
+It was a tie!
+Rounds Played: 447
+
+Player 2 (Reflector Player) wins! Rock crushes Lizard!
+Rounds Played: 448
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 449
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 450
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 451
+
+It was a tie!
+Rounds Played: 452
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 453
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 454
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 455
+
+Player 2 (Rotator Player) wins! Scissors decapitate Lizard!
+Rounds Played: 456
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 457
+
+Player 2 (Rotator Player) wins! Spock smashes Scissors!
+Rounds Played: 458
+
+Player 1 (Thinker Player) wins! Spock vaporizes Rock!
+Rounds Played: 459
+
+Player 2 (Rotator Player) wins! Paper covers Rock!
+Rounds Played: 460
+
+Player 2 (Rotator Player) wins! Scissors decapitate Lizard!
+Rounds Played: 461
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 462
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 463
+
+It was a tie!
+Rounds Played: 464
+
+Player 1 (Thinker Player) wins! Spock vaporizes Rock!
+Rounds Played: 465
+
+Player 2 (Reflector Player) wins! Spock smashes Scissors!
+Rounds Played: 466
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 467
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 468
+
+Player 2 (Reflector Player) wins! Paper covers Rock!
+Rounds Played: 469
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 470
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 471
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 472
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 473
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 474
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 475
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 476
+
+Player 2 (Rotator Player) wins! Spock vaporizes Rock!
+Rounds Played: 477
+
+It was a tie!
+Rounds Played: 478
+
+Player 2 (Rotator Player) wins! Paper covers Rock!
+Rounds Played: 479
+
+Player 2 (Rotator Player) wins! Scissors cut Paper!
+Rounds Played: 480
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 481
+
+Player 1 (Thinker Player) wins! Lizard poisons Spock!
+Rounds Played: 482
+
+It was a tie!
+Rounds Played: 483
+
+Player 1 (Thinker Player) wins! Spock vaporizes Rock!
+Rounds Played: 484
+
+Player 1 (Thinker Player) wins! Lizard poisons Spock!
+Rounds Played: 485
+
+Player 2 (Reflector Player) wins! Lizard poisons Spock!
+Rounds Played: 486
+
+Player 1 (Thinker Player) wins! Lizard poisons Spock!
+Rounds Played: 487
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 488
+
+Player 1 (Thinker Player) wins! Spock vaporizes Rock!
+Rounds Played: 489
+
+Player 2 (Reflector Player) wins! Spock smashes Scissors!
+Rounds Played: 490
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 491
+
+It was a tie!
+Rounds Played: 492
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 493
+
+It was a tie!
+Rounds Played: 494
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 495
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 496
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 497
+
+It was a tie!
+Rounds Played: 498
+
+Player 2 (Rotator Player) wins! Scissors decapitate Lizard!
+Rounds Played: 499
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 500
+
+It was a tie!
+Rounds Played: 501
+
+It was a tie!
+Rounds Played: 502
+
+Player 1 (Thinker Player) wins! Scissors cut Paper!
+Rounds Played: 503
+
+Player 2 (Rotator Player) wins! Scissors cut Paper!
+Rounds Played: 504
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 505
+
+It was a tie!
+Rounds Played: 506
+
+Player 2 (Reflector Player) wins! Rock crushes Scissors!
+Rounds Played: 507
+
+Player 2 (Reflector Player) wins! Scissors cut Paper!
+Rounds Played: 508
+
+Player 2 (Reflector Player) wins! Paper disproves Spock!
+Rounds Played: 509
+
+Player 2 (Reflector Player) wins! Spock smashes Scissors!
+Rounds Played: 510
+
+It was a tie!
+Rounds Played: 511
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 512
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 513
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 514
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 515
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 516
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 517
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 518
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 519
+
+Player 2 (Rotator Player) wins! Spock smashes Scissors!
+Rounds Played: 520
+
+It was a tie!
+Rounds Played: 521
+
+Player 1 (Thinker Player) wins! Lizard eats Paper!
+Rounds Played: 522
+
+It was a tie!
+Rounds Played: 523
+
+Player 2 (Rotator Player) wins! Lizard poisons Spock!
+Rounds Played: 524
+
+Player 2 (Rotator Player) wins! Spock vaporizes Rock!
+Rounds Played: 525
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 526
+
+Player 2 (Reflector Player) wins! Rock crushes Lizard!
+Rounds Played: 527
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 528
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 529
+
+Player 2 (Reflector Player) wins! Rock crushes Scissors!
+Rounds Played: 530
+
+Player 2 (Reflector Player) wins! Scissors cut Paper!
+Rounds Played: 531
+
+Player 2 (Reflector Player) wins! Paper covers Rock!
+Rounds Played: 532
+
+It was a tie!
+Rounds Played: 533
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 534
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 535
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 536
+
+It was a tie!
+Rounds Played: 537
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 538
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 539
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 540
+
+Player 1 (Thinker Player) wins! Scissors cut Paper!
+Rounds Played: 541
+
+It was a tie!
+Rounds Played: 542
+
+Player 2 (Rotator Player) wins! Lizard eats Paper!
+Rounds Played: 543
+
+Player 2 (Rotator Player) wins! Spock smashes Scissors!
+Rounds Played: 544
+
+Player 1 (Thinker Player) wins! Spock vaporizes Rock!
+Rounds Played: 545
+
+Player 1 (Thinker Player) wins! Scissors cut Paper!
+Rounds Played: 546
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 547
+
+Player 2 (Reflector Player) wins! Paper covers Rock!
+Rounds Played: 548
+
+It was a tie!
+Rounds Played: 549
+
+Player 2 (Reflector Player) wins! Rock crushes Lizard!
+Rounds Played: 550
+
+Player 2 (Reflector Player) wins! Lizard poisons Spock!
+Rounds Played: 551
+
+Player 2 (Reflector Player) wins! Spock vaporizes Rock!
+Rounds Played: 552
+
+It was a tie!
+Rounds Played: 553
+
+It was a tie!
+Rounds Played: 554
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 555
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 556
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 557
+
+It was a tie!
+Rounds Played: 558
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 559
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 560
+
+Player 2 (Rotator Player) wins! Scissors decapitate Lizard!
+Rounds Played: 561
+
+Player 2 (Rotator Player) wins! Lizard eats Paper!
+Rounds Played: 562
+
+Player 1 (Thinker Player) wins! Lizard poisons Spock!
+Rounds Played: 563
+
+Player 2 (Rotator Player) wins! Rock crushes Lizard!
+Rounds Played: 564
+
+Player 1 (Thinker Player) wins! Scissors cut Paper!
+Rounds Played: 565
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 566
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 567
+
+Player 2 (Reflector Player) wins! Rock crushes Lizard!
+Rounds Played: 568
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 569
+
+It was a tie!
+Rounds Played: 570
+
+Player 2 (Reflector Player) wins! Scissors cut Paper!
+Rounds Played: 571
+
+It was a tie!
+Rounds Played: 572
+
+It was a tie!
+Rounds Played: 573
+
+Player 1 (Thinker Player) wins! Lizard eats Paper!
+Rounds Played: 574
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 575
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 576
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 577
+
+It was a tie!
+Rounds Played: 578
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 579
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 580
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 581
+
+Player 1 (Thinker Player) wins! Paper disproves Spock!
+Rounds Played: 582
+
+Player 2 (Rotator Player) wins! Rock crushes Scissors!
+Rounds Played: 583
+
+It was a tie!
+Rounds Played: 584
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 585
+
+Player 2 (Rotator Player) wins! Lizard eats Paper!
+Rounds Played: 586
+
+It was a tie!
+Rounds Played: 587
+
+Player 1 (Thinker Player) wins! Spock vaporizes Rock!
+Rounds Played: 588
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 589
+
+Player 2 (Reflector Player) wins! Scissors decapitate Lizard!
+Rounds Played: 590
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 591
+
+Player 1 (Thinker Player) wins! Spock smashes Scissors!
+Rounds Played: 592
+
+Player 2 (Reflector Player) wins! Spock smashes Scissors!
+Rounds Played: 593
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 594
+
+It was a tie!
+Rounds Played: 595
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 596
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 597
+
+It was a tie!
+Rounds Played: 598
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 599
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 600
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 601
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 602
+
+Player 2 (Rotator Player) wins! Paper disproves Spock!
+Rounds Played: 603
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 604
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 605
+
+Player 1 (Thinker Player) wins! Lizard poisons Spock!
+Rounds Played: 606
+
+Player 2 (Rotator Player) wins! Rock crushes Scissors!
+Rounds Played: 607
+
+It was a tie!
+Rounds Played: 608
+
+It was a tie!
+Rounds Played: 609
+
+Player 2 (Reflector Player) wins! Rock crushes Scissors!
+Rounds Played: 610
+
+Player 1 (Thinker Player) wins! Spock smashes Scissors!
+Rounds Played: 611
+
+It was a tie!
+Rounds Played: 612
+
+Player 2 (Reflector Player) wins! Spock smashes Scissors!
+Rounds Played: 613
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 614
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 615
+
+Player 2 (Reflector Player) wins! Paper covers Rock!
+Rounds Played: 616
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 617
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 618
+
+It was a tie!
+Rounds Played: 619
+
+It was a tie!
+Rounds Played: 620
+
+It was a tie!
+Rounds Played: 621
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 622
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 623
+
+Player 2 (Rotator Player) wins! Lizard poisons Spock!
+Rounds Played: 624
+
+Player 2 (Rotator Player) wins! Spock smashes Scissors!
+Rounds Played: 625
+
+Player 2 (Rotator Player) wins! Rock crushes Scissors!
+Rounds Played: 626
+
+Player 2 (Rotator Player) wins! Paper covers Rock!
+Rounds Played: 627
+
+Player 2 (Rotator Player) wins! Scissors cut Paper!
+Rounds Played: 628
+
+Player 2 (Rotator Player) wins! Lizard poisons Spock!
+Rounds Played: 629
+
+Player 2 (Rotator Player) wins! Spock vaporizes Rock!
+Rounds Played: 630
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 631
+
+Player 1 (Thinker Player) wins! Scissors cut Paper!
+Rounds Played: 632
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 633
+
+Player 1 (Thinker Player) wins! Spock vaporizes Rock!
+Rounds Played: 634
+
+It was a tie!
+Rounds Played: 635
+
+Player 2 (Reflector Player) wins! Spock vaporizes Rock!
+Rounds Played: 636
+
+It was a tie!
+Rounds Played: 637
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 638
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 639
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 640
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 641
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 642
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 643
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 644
+
+Player 2 (Rotator Player) wins! Rock crushes Lizard!
+Rounds Played: 645
+
+Player 1 (Thinker Player) wins! Scissors cut Paper!
+Rounds Played: 646
+
+Player 2 (Rotator Player) wins! Scissors decapitate Lizard!
+Rounds Played: 647
+
+Player 2 (Rotator Player) wins! Lizard eats Paper!
+Rounds Played: 648
+
+It was a tie!
+Rounds Played: 649
+
+Player 2 (Rotator Player) wins! Rock crushes Lizard!
+Rounds Played: 650
+
+Player 2 (Rotator Player) wins! Paper covers Rock!
+Rounds Played: 651
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 652
+
+Player 1 (Thinker Player) wins! Scissors cut Paper!
+Rounds Played: 653
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 654
+
+It was a tie!
+Rounds Played: 655
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 656
+
+Player 1 (Thinker Player) wins! Scissors cut Paper!
+Rounds Played: 657
+
+It was a tie!
+Rounds Played: 658
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 659
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 660
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 661
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 662
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 663
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 664
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 665
+
+Player 2 (Rotator Player) wins! Scissors decapitate Lizard!
+Rounds Played: 666
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 667
+
+Player 1 (Thinker Player) wins! Paper disproves Spock!
+Rounds Played: 668
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 669
+
+Player 2 (Rotator Player) wins! Paper disproves Spock!
+Rounds Played: 670
+
+It was a tie!
+Rounds Played: 671
+
+Player 2 (Rotator Player) wins! Lizard eats Paper!
+Rounds Played: 672
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 673
+
+Player 2 (Reflector Player) wins! Rock crushes Scissors!
+Rounds Played: 674
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 675
+
+It was a tie!
+Rounds Played: 676
+
+Player 1 (Thinker Player) wins! Spock vaporizes Rock!
+Rounds Played: 677
+
+Player 2 (Reflector Player) wins! Spock vaporizes Rock!
+Rounds Played: 678
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 679
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 680
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 681
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 682
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 683
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 684
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 685
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 686
+
+Player 2 (Rotator Player) wins! Spock vaporizes Rock!
+Rounds Played: 687
+
+Player 2 (Rotator Player) wins! Rock crushes Scissors!
+Rounds Played: 688
+
+Player 2 (Rotator Player) wins! Paper covers Rock!
+Rounds Played: 689
+
+It was a tie!
+Rounds Played: 690
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 691
+
+It was a tie!
+Rounds Played: 692
+
+Player 2 (Rotator Player) wins! Rock crushes Scissors!
+Rounds Played: 693
+
+Player 1 (Thinker Player) wins! Lizard eats Paper!
+Rounds Played: 694
+
+It was a tie!
+Rounds Played: 695
+
+Player 2 (Reflector Player) wins! Lizard eats Paper!
+Rounds Played: 696
+
+Player 1 (Thinker Player) wins! Scissors cut Paper!
+Rounds Played: 697
+
+Player 2 (Reflector Player) wins! Scissors cut Paper!
+Rounds Played: 698
+
+Player 1 (Thinker Player) wins! Scissors cut Paper!
+Rounds Played: 699
+
+Player 2 (Reflector Player) wins! Scissors decapitate Lizard!
+Rounds Played: 700
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 701
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 702
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 703
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 704
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 705
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 706
+
+It was a tie!
+Rounds Played: 707
+
+Player 1 (Thinker Player) wins! Scissors cut Paper!
+Rounds Played: 708
+
+Player 1 (Thinker Player) wins! Spock smashes Scissors!
+Rounds Played: 709
+
+Player 2 (Rotator Player) wins! Lizard poisons Spock!
+Rounds Played: 710
+
+Player 1 (Thinker Player) wins! Paper disproves Spock!
+Rounds Played: 711
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 712
+
+Player 2 (Rotator Player) wins! Paper covers Rock!
+Rounds Played: 713
+
+Player 1 (Thinker Player) wins! Spock smashes Scissors!
+Rounds Played: 714
+
+Player 2 (Reflector Player) wins! Lizard eats Paper!
+Rounds Played: 715
+
+It was a tie!
+Rounds Played: 716
+
+It was a tie!
+Rounds Played: 717
+
+Player 1 (Thinker Player) wins! Scissors cut Paper!
+Rounds Played: 718
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 719
+
+Player 2 (Reflector Player) wins! Rock crushes Scissors!
+Rounds Played: 720
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 721
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 722
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 723
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 724
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 725
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 726
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 727
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 728
+
+Player 2 (Rotator Player) wins! Lizard poisons Spock!
+Rounds Played: 729
+
+Player 2 (Rotator Player) wins! Spock smashes Scissors!
+Rounds Played: 730
+
+It was a tie!
+Rounds Played: 731
+
+Player 2 (Rotator Player) wins! Paper disproves Spock!
+Rounds Played: 732
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 733
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 734
+
+Player 1 (Thinker Player) wins! Paper disproves Spock!
+Rounds Played: 735
+
+Player 1 (Thinker Player) wins! Spock vaporizes Rock!
+Rounds Played: 736
+
+Player 2 (Reflector Player) wins! Spock smashes Scissors!
+Rounds Played: 737
+
+Player 2 (Reflector Player) wins! Scissors decapitate Lizard!
+Rounds Played: 738
+
+Player 2 (Reflector Player) wins! Lizard eats Paper!
+Rounds Played: 739
+
+Player 1 (Thinker Player) wins! Scissors cut Paper!
+Rounds Played: 740
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 741
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 742
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 743
+
+It was a tie!
+Rounds Played: 744
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 745
+
+It was a tie!
+Rounds Played: 746
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 747
+
+It was a tie!
+Rounds Played: 748
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 749
+
+It was a tie!
+Rounds Played: 750
+
+Player 2 (Rotator Player) wins! Paper disproves Spock!
+Rounds Played: 751
+
+It was a tie!
+Rounds Played: 752
+
+Player 2 (Rotator Player) wins! Lizard poisons Spock!
+Rounds Played: 753
+
+Player 2 (Rotator Player) wins! Spock vaporizes Rock!
+Rounds Played: 754
+
+Player 2 (Rotator Player) wins! Rock crushes Lizard!
+Rounds Played: 755
+
+Player 2 (Rotator Player) wins! Paper covers Rock!
+Rounds Played: 756
+
+Player 2 (Reflector Player) wins! Paper covers Rock!
+Rounds Played: 757
+
+It was a tie!
+Rounds Played: 758
+
+Player 2 (Reflector Player) wins! Rock crushes Scissors!
+Rounds Played: 759
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 760
+
+Player 1 (Thinker Player) wins! Spock vaporizes Rock!
+Rounds Played: 761
+
+It was a tie!
+Rounds Played: 762
+
+Player 1 (Thinker Player) wins! Paper disproves Spock!
+Rounds Played: 763
+
+It was a tie!
+Rounds Played: 764
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 765
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 766
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 767
+
+It was a tie!
+Rounds Played: 768
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 769
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 770
+
+It was a tie!
+Rounds Played: 771
+
+Player 2 (Rotator Player) wins! Lizard poisons Spock!
+Rounds Played: 772
+
+Player 2 (Rotator Player) wins! Spock vaporizes Rock!
+Rounds Played: 773
+
+It was a tie!
+Rounds Played: 774
+
+Player 2 (Rotator Player) wins! Paper covers Rock!
+Rounds Played: 775
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 776
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 777
+
+Player 1 (Thinker Player) wins! Lizard eats Paper!
+Rounds Played: 778
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 779
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 780
+
+Player 2 (Reflector Player) wins! Paper disproves Spock!
+Rounds Played: 781
+
+Player 2 (Reflector Player) wins! Spock smashes Scissors!
+Rounds Played: 782
+
+It was a tie!
+Rounds Played: 783
+
+Player 2 (Reflector Player) wins! Scissors cut Paper!
+Rounds Played: 784
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 785
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 786
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 787
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 788
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 789
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 790
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 791
+
+It was a tie!
+Rounds Played: 792
+
+It was a tie!
+Rounds Played: 793
+
+Player 1 (Thinker Player) wins! Lizard eats Paper!
+Rounds Played: 794
+
+It was a tie!
+Rounds Played: 795
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 796
+
+Player 1 (Thinker Player) wins! Paper disproves Spock!
+Rounds Played: 797
+
+Player 2 (Rotator Player) wins! Rock crushes Lizard!
+Rounds Played: 798
+
+Player 2 (Reflector Player) wins! Paper disproves Spock!
+Rounds Played: 799
+
+Player 1 (Thinker Player) wins! Paper disproves Spock!
+Rounds Played: 800
+
+It was a tie!
+Rounds Played: 801
+
+It was a tie!
+Rounds Played: 802
+
+Player 1 (Thinker Player) wins! Scissors cut Paper!
+Rounds Played: 803
+
+Player 2 (Reflector Player) wins! Scissors cut Paper!
+Rounds Played: 804
+
+Player 2 (Reflector Player) wins! Paper covers Rock!
+Rounds Played: 805
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 806
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 807
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 808
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 809
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 810
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 811
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 812
+
+Player 2 (Rotator Player) wins! Paper disproves Spock!
+Rounds Played: 813
+
+Player 2 (Rotator Player) wins! Scissors decapitate Lizard!
+Rounds Played: 814
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 815
+
+It was a tie!
+Rounds Played: 816
+
+It was a tie!
+Rounds Played: 817
+
+Player 2 (Rotator Player) wins! Paper covers Rock!
+Rounds Played: 818
+
+It was a tie!
+Rounds Played: 819
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 820
+
+Player 1 (Thinker Player) wins! Scissors cut Paper!
+Rounds Played: 821
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 822
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 823
+
+Player 2 (Reflector Player) wins! Paper covers Rock!
+Rounds Played: 824
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 825
+
+It was a tie!
+Rounds Played: 826
+
+It was a tie!
+Rounds Played: 827
+
+It was a tie!
+Rounds Played: 828
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 829
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 830
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 831
+
+It was a tie!
+Rounds Played: 832
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 833
+
+Player 2 (Rotator Player) wins! Lizard poisons Spock!
+Rounds Played: 834
+
+It was a tie!
+Rounds Played: 835
+
+Player 2 (Rotator Player) wins! Rock crushes Scissors!
+Rounds Played: 836
+
+Player 2 (Rotator Player) wins! Paper disproves Spock!
+Rounds Played: 837
+
+Player 1 (Thinker Player) wins! Spock smashes Scissors!
+Rounds Played: 838
+
+Player 2 (Rotator Player) wins! Lizard poisons Spock!
+Rounds Played: 839
+
+Player 1 (Thinker Player) wins! Paper disproves Spock!
+Rounds Played: 840
+
+Player 2 (Reflector Player) wins! Paper covers Rock!
+Rounds Played: 841
+
+Player 2 (Reflector Player) wins! Rock crushes Scissors!
+Rounds Played: 842
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 843
+
+Player 1 (Thinker Player) wins! Spock vaporizes Rock!
+Rounds Played: 844
+
+Player 2 (Reflector Player) wins! Spock vaporizes Rock!
+Rounds Played: 845
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 846
+
+Player 2 (Reflector Player) wins! Paper disproves Spock!
+Rounds Played: 847
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 848
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 849
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 850
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 851
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 852
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 853
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 854
+
+Player 2 (Rotator Player) wins! Rock crushes Scissors!
+Rounds Played: 855
+
+Player 2 (Rotator Player) wins! Paper covers Rock!
+Rounds Played: 856
+
+Player 2 (Rotator Player) wins! Scissors decapitate Lizard!
+Rounds Played: 857
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 858
+
+Player 1 (Thinker Player) wins! Paper disproves Spock!
+Rounds Played: 859
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 860
+
+Player 1 (Thinker Player) wins! Scissors cut Paper!
+Rounds Played: 861
+
+Player 1 (Thinker Player) wins! Paper disproves Spock!
+Rounds Played: 862
+
+It was a tie!
+Rounds Played: 863
+
+Player 2 (Reflector Player) wins! Paper covers Rock!
+Rounds Played: 864
+
+It was a tie!
+Rounds Played: 865
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 866
+
+It was a tie!
+Rounds Played: 867
+
+Player 1 (Thinker Player) wins! Lizard eats Paper!
+Rounds Played: 868
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 869
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 870
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 871
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 872
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 873
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 874
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 875
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 876
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 877
+
+It was a tie!
+Rounds Played: 878
+
+Player 1 (Thinker Player) wins! Spock vaporizes Rock!
+Rounds Played: 879
+
+Player 2 (Rotator Player) wins! Paper covers Rock!
+Rounds Played: 880
+
+It was a tie!
+Rounds Played: 881
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 882
+
+Player 2 (Reflector Player) wins! Lizard poisons Spock!
+Rounds Played: 883
+
+Player 2 (Reflector Player) wins! Spock smashes Scissors!
+Rounds Played: 884
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 885
+
+It was a tie!
+Rounds Played: 886
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 887
+
+Player 2 (Reflector Player) wins! Paper covers Rock!
+Rounds Played: 888
+
+Player 1 (Thinker Player) wins! Spock vaporizes Rock!
+Rounds Played: 889
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 890
+
+It was a tie!
+Rounds Played: 891
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 892
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 893
+
+It was a tie!
+Rounds Played: 894
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 895
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 896
+
+Player 1 (Thinker Player) wins! Lizard poisons Spock!
+Rounds Played: 897
+
+Player 2 (Rotator Player) wins! Rock crushes Scissors!
+Rounds Played: 898
+
+Player 2 (Rotator Player) wins! Paper covers Rock!
+Rounds Played: 899
+
+Player 2 (Rotator Player) wins! Scissors decapitate Lizard!
+Rounds Played: 900
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 901
+
+Player 2 (Rotator Player) wins! Spock smashes Scissors!
+Rounds Played: 902
+
+It was a tie!
+Rounds Played: 903
+
+Player 2 (Reflector Player) wins! Spock smashes Scissors!
+Rounds Played: 904
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 905
+
+Player 2 (Reflector Player) wins! Rock crushes Scissors!
+Rounds Played: 906
+
+Player 2 (Reflector Player) wins! Scissors cut Paper!
+Rounds Played: 907
+
+It was a tie!
+Rounds Played: 908
+
+Player 1 (Thinker Player) wins! Scissors cut Paper!
+Rounds Played: 909
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 910
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 911
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 912
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 913
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 914
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 915
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 916
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 917
+
+Player 2 (Rotator Player) wins! Paper disproves Spock!
+Rounds Played: 918
+
+Player 2 (Rotator Player) wins! Scissors cut Paper!
+Rounds Played: 919
+
+Player 2 (Rotator Player) wins! Lizard eats Paper!
+Rounds Played: 920
+
+Player 2 (Rotator Player) wins! Spock vaporizes Rock!
+Rounds Played: 921
+
+Player 2 (Rotator Player) wins! Rock crushes Scissors!
+Rounds Played: 922
+
+Player 2 (Rotator Player) wins! Paper disproves Spock!
+Rounds Played: 923
+
+Player 2 (Rotator Player) wins! Scissors decapitate Lizard!
+Rounds Played: 924
+
+Player 2 (Reflector Player) wins! Rock crushes Lizard!
+Rounds Played: 925
+
+It was a tie!
+Rounds Played: 926
+
+Player 2 (Reflector Player) wins! Lizard poisons Spock!
+Rounds Played: 927
+
+Player 1 (Thinker Player) wins! Lizard poisons Spock!
+Rounds Played: 928
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 929
+
+Player 1 (Thinker Player) wins! Spock smashes Scissors!
+Rounds Played: 930
+
+Player 2 (Reflector Player) wins! Spock vaporizes Rock!
+Rounds Played: 931
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 932
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 933
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 934
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 935
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 936
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 937
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 938
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 939
+
+Player 1 (Thinker Player) wins! Lizard poisons Spock!
+Rounds Played: 940
+
+Player 2 (Rotator Player) wins! Rock crushes Scissors!
+Rounds Played: 941
+
+It was a tie!
+Rounds Played: 942
+
+Player 2 (Rotator Player) wins! Scissors cut Paper!
+Rounds Played: 943
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 944
+
+Player 2 (Rotator Player) wins! Spock vaporizes Rock!
+Rounds Played: 945
+
+It was a tie!
+Rounds Played: 946
+
+It was a tie!
+Rounds Played: 947
+
+Player 2 (Reflector Player) wins! Rock crushes Lizard!
+Rounds Played: 948
+
+Player 2 (Reflector Player) wins! Lizard eats Paper!
+Rounds Played: 949
+
+It was a tie!
+Rounds Played: 950
+
+Player 2 (Reflector Player) wins! Paper disproves Spock!
+Rounds Played: 951
+
+Player 2 (Reflector Player) wins! Spock vaporizes Rock!
+Rounds Played: 952
+
+It was a tie!
+Rounds Played: 953
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 954
+
+It was a tie!
+Rounds Played: 955
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 956
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 957
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 958
+
+It was a tie!
+Rounds Played: 959
+
+Player 1 (Thinker Player) wins! Paper covers Rock!
+Rounds Played: 960
+
+Player 1 (Thinker Player) wins! Lizard eats Paper!
+Rounds Played: 961
+
+It was a tie!
+Rounds Played: 962
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 963
+
+Player 1 (Thinker Player) wins! Paper disproves Spock!
+Rounds Played: 964
+
+It was a tie!
+Rounds Played: 965
+
+Player 2 (Rotator Player) wins! Paper covers Rock!
+Rounds Played: 966
+
+Player 2 (Reflector Player) wins! Rock crushes Lizard!
+Rounds Played: 967
+
+Player 2 (Reflector Player) wins! Lizard poisons Spock!
+Rounds Played: 968
+
+It was a tie!
+Rounds Played: 969
+
+Player 2 (Reflector Player) wins! Spock vaporizes Rock!
+Rounds Played: 970
+
+Player 2 (Reflector Player) wins! Rock crushes Scissors!
+Rounds Played: 971
+
+Player 2 (Reflector Player) wins! Scissors cut Paper!
+Rounds Played: 972
+
+Player 1 (Thinker Player) wins! Scissors cut Paper!
+Rounds Played: 973
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 974
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 975
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 976
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 977
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 978
+
+It was a tie!
+Rounds Played: 979
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 980
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 981
+
+Player 1 (Thinker Player) wins! Rock crushes Lizard!
+Rounds Played: 982
+
+Player 2 (Rotator Player) wins! Spock smashes Scissors!
+Rounds Played: 983
+
+It was a tie!
+Rounds Played: 984
+
+Player 2 (Rotator Player) wins! Paper covers Rock!
+Rounds Played: 985
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 986
+
+Player 2 (Rotator Player) wins! Lizard eats Paper!
+Rounds Played: 987
+
+Player 2 (Reflector Player) wins! Scissors decapitate Lizard!
+Rounds Played: 988
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 989
+
+It was a tie!
+Rounds Played: 990
+
+Player 1 (Thinker Player) wins! Spock smashes Scissors!
+Rounds Played: 991
+
+Player 2 (Reflector Player) wins! Spock smashes Scissors!
+Rounds Played: 992
+
+Player 1 (Thinker Player) wins! Rock crushes Scissors!
+Rounds Played: 993
+
+Player 2 (Reflector Player) wins! Rock crushes Scissors!
+Rounds Played: 994
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 995
+
+Player 2 (Repeater Player) wins! Lizard eats Paper!
+Rounds Played: 996
+
+Player 1 (Thinker Player) wins! Scissors decapitate Lizard!
+Rounds Played: 997
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 998
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 999
+
+Player 2 (Repeater Player) wins! Lizard poisons Spock!
+Rounds Played: 1000
+
+Player 1 (Thinker Player) won 453 rounds while Player 2 (Mixer Player) won 366 rounds.
+Number of Ties: 181
+Player 1 Win Percentage: 45.300000000000004
+Player 2 Win Percentage: 36.6
+Tie Percentage: 18.099999999999998

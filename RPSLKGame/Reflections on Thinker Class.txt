@@ -1,0 +1,22 @@
+Advantages:
+The thinker class is extremely good at recognizing if a player is throwing the same hand over 
+and over again. This is evident because when the RepeaterPlayer was against the RandomPlayer, it 
+yielded results of 37%:47%. Obviously the RepeaterPlayer doesn't win as much, but it wins a solid
+amount. But once RepeaterPlayer went against ThinkerPlayer, it was 1%:99%. 
+
+Furthermore, when looking at the ReflectorPlayer against the RandomPlayer, they were very evenly matched
+at a win ratio of 40%:40%, which is expected. However, once ReflectorPlayer went against ThinkerPlayer,
+the win ratio shifted to 34%:45% in favour of the ThinkerPlayer. While this is not a 
+drastic difference, it is very noticeable. 
+
+When MixerPlayer was against RandomPlayer, the win ratio was 39%:39%. Exactly the same. However, when
+MixerPlayer was against ThinkerPlayer, the win ratio became 38%:35% in favour of the ThinkerPlayer. But when
+1000 rounds were run, the differences were much more drastic as the win ratio was 45%:36%. 
+
+Disadvantages:
+The ThinkerPlayer is unable to recognize cyclical throws. Such are the throws by the RotatorPlayer. 
+When RotatorPlayer went against RandomPlayer, it was evenly matched at a win ratio of 
+39%:41%. However, this number did not chance when RotatorPlayer was against ThinkerPlayer, as the
+win ratio was 42%:39%.
+
+
